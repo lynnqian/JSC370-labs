@@ -243,6 +243,6 @@ summary(lm_mod)
 
 -   Answer questions 1-5
 
--   Paste the link to the github repo you created here
+-   https://github.com/lynnqian/JSC370-labs.git
 
 -   Submit pdf or html output to Quercus
